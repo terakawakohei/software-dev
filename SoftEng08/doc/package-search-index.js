@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"se.nakamura.student.entity","h":"","u":""},{"l":"すべてのパッケージ","h":"","u":"allpackages-index.html"}]

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+    <category expanded="true" name="カテゴリーなし">
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="AverageCalculator"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="AverageCalculator2"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="CPUTest"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="CalcAge"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="CalcNum"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="CalcSign"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="CardDeckTest"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="CardDeckTest (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="CardTest"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="CardTest (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ConcentrationGameTest"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ControlFlow"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Dictionary"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Fibonacci"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="FriendList"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Hello"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="JapaneseTextAnalyzer"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Jouchi"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="KeyBoardInput"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="LibrarySearch"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (2)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (3)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (4)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (5)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (6)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (7)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main (8)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main1"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main1 (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main1 (2)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main2"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main2 (1)"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="PaintTool"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="PlayerTest"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Simple0"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Simple1"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Solver"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="UseSampleI"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="WordSort"/>
+    </category>
+</runner>

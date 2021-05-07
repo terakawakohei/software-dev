@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;StudentManagement2/student_list2.txt&apos; を &apos;student_list2.csv&apos; に変更します" description="リソース &apos;student_list2.txt&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="student_list2.txt" name="student_list2.csv" stamp="1591320083883" updateReferences="true"/>
+</session>

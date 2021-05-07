@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;KeyBoard.java&apos; to &apos;Concentration/src/se.t1835039.card.game&apos;&#x0A;- 元のプロジェクト: &apos;JankenGame&apos;&#x0A;- 宛先要素: &apos;Concentration/src/se.t1835039.card.game&apos;&#x0A;- オリジナル要素: &apos;se.t1835039.janken.util.KeyBoard.java&apos;" description="コンパイル単位をコピー" destination="=Concentration/src&lt;se.t1835039.card.game" element1="/src&lt;se.t1835039.janken.util{KeyBoard.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1593339218503" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="se.t1835039.student.util.StudentMapFactory"/>
+    <fullyQualifiedTypeName name="se.t1835039.student.util.KeyBoard"/>
+    <fullyQualifiedTypeName name="se.t1835039.student.entity.WorkingStudent"/>
+    <fullyQualifiedTypeName name="se.t1835039.student.entity.Student"/>
+    <fullyQualifiedTypeName name="se.t1835039.student.entity.InternationalStudent"/>
+    <fullyQualifiedTypeName name="se.t1835039.student.entity.RegularStudent"/>
+    <fullyQualifiedTypeName name="se.t1835039.student.entity.RobotStudent"/>
+    <fullyQualifiedTypeName name="se.t1835039.janken.entity.Player"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="se.t1835039.janken.app.Saving"/>
+    <fullyQualifiedTypeName name="se.t1835039.janken.entity.Strategy"/>
+    <fullyQualifiedTypeName name="se.t1835039.janken.entity.RandomStrategy"/>
+    <fullyQualifiedTypeName name="se.t1835039.janken.entity.InvincibleStrategy"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.Card"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.CardDeck"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.RandomStrategy"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.CPU"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.NeverForgetStrategy"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.NormalStrategy"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.CheatStrategy"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.Player"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.entity.User"/>
+    <fullyQualifiedTypeName name="se.t1835039.card.game.ConcentrationGame"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Array.java&apos; to &apos;SoftEng01/src/(デフォルト・パッケージ)&apos;&#x0A;- 元のプロジェクト: &apos;SoftEng01&apos;&#x0A;- 宛先要素: &apos;SoftEng01/src/(デフォルト・パッケージ)&apos;&#x0A;- オリジナル要素: &apos;第一回.Array.java&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="コンパイル単位を移動" destination="/src&lt;" element1="/src&lt;第一回{Array.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1590294033016" units="1" version="1.0"/>
+</session>

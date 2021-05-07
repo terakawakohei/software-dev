@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;KeyBoard.java&apos; to &apos;SoftEng06/src&apos;&#x0A;- 元のプロジェクト: &apos;SoftEng05&apos;&#x0A;- 宛先要素: &apos;SoftEng06/src&apos;&#x0A;- オリジナル要素: &apos;KeyBoard.java&apos;" description="コンパイル単位をコピー" destination="=SoftEng06/src" element1="/src&lt;{KeyBoard.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1590484132790" units="1" version="1.0"/>
+</session>
